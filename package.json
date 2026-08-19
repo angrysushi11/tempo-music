@@ -1,0 +1,25 @@
+{
+  "name": "tempo-music-engine",
+  "version": "0.1.0",
+  "description": "The deterministic tap-tempo and workout-music prompt engine behind Tempo Music.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "private": true,
+  "homepage": "https://www.doubledash.me/tools/tempo-music/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angrysushi11/tempo-music.git"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE",
+    "NOTICE"
+  ]
+}
