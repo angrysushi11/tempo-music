@@ -55,3 +55,5 @@ console.log(prompt);
 ## License
 
 Apache License 2.0. See [`LICENSE`](./LICENSE).
+
+Security reports should follow [`SECURITY.md`](./SECURITY.md).
